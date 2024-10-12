@@ -1,21 +1,9 @@
 # UMEAIMAN MERCHANT
 
-**Seeking technical summer internship opportunities in starting May 2025**
+## Projects
+**Volunteer Research Assistant @ University of South Florida (_Aug 2024 - Present_)**
+-	LOS Prediction for Heart Implant Patients: Developed a tree-based model achieving an accuracy score of 79.8% to predict length of stay, which provided insights to optimize resource allocation and reduce hospital costs based on predictive outcomes.
 
-#### Technical Skills: 
-- Programming Languages: C++, C, Python, R(Basis)
-- Tools & Technologies: Tableau, Power BI, MS Excel, Git, Docker, Jira
-- Cloud Technology: AWS
-- Big Data: SQL, Spark, Hadoop
-- Databases: Microsoft Server, MySQL Workbench, MongoDB, PostgreSQL
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Pytorch/Tensorflow, Langchain, Streamlit.
-- Operating System: Windows, Linux
-- Certificates: Advance SQL by HackerRank, Google Advance Data Analytics, C++ Certified Associated Programmer
-
-
-## Education
-- **Maters in Science,** AI and Business Analytics | University of South Florida, Tampa (_Aug 2024 - May 2026_)
-- **B. Tech.,** Electronic Engineering | Vishwakarma Instituteof Technology, Pune (_Aug 2017 - Jun 2021_)								       				        		
 
 ## Work Experience
 **Consultant-Technology Consulting @ Ernst and Young LLP (_Oct 2023 - Jul 2024_)**
@@ -37,3 +25,16 @@
 -	Sales Trends Analysis using Tableau: Leveraged Tableau to create dynamic data visualizations and conduct in-depth analysis of sales trends, incorporating social, seasonal, and local supply and demand factors, which informed strategic decision-making.
 
 
+## Technical Skills: 
+- Programming Languages: C++, C, Python, R(Basis)
+- Tools & Technologies: Tableau, Power BI, MS Excel, Git, Docker, Jira
+- Cloud Technology: AWS
+- Big Data: SQL, Spark, Hadoop
+- Databases: Microsoft Server, MySQL Workbench, MongoDB, PostgreSQL
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Pytorch/Tensorflow, Langchain, Streamlit.
+- Operating System: Windows, Linux
+- Certificates: Advance SQL by HackerRank, Google Advance Data Analytics, C++ Certified Associated Programmer
+
+## Education
+- **Maters in Science,** AI and Business Analytics | University of South Florida, Tampa (_Aug 2024 - May 2026_)
+- **B. Tech.,** Electronic Engineering | Vishwakarma Instituteof Technology, Pune (_Aug 2017 - Jun 2021_)					
