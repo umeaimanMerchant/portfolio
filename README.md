@@ -25,7 +25,7 @@
 -	Sales Trends Analysis using Tableau: Leveraged Tableau to create dynamic data visualizations and conduct in-depth analysis of sales trends, incorporating social, seasonal, and local supply and demand factors, which informed strategic decision-making.
 
 
-## Technical Skills: 
+## Technical Skills
 - Programming Languages: C++, C, Python, R(Basis)
 - Tools & Technologies: Tableau, Power BI, MS Excel, Git, Docker, Jira
 - Cloud Technology: AWS
