@@ -1,4 +1,6 @@
-# Senior Software Engineer
+# UMEAIMAN MERCHANT
+
+**Seeking technical summer internship opportunities in starting May 2025**
 
 #### Technical Skills: 
 - Programming Languages: C++, C, Python, R(Basis)
